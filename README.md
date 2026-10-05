@@ -22,9 +22,9 @@ An introduction to exploratory data analysis and the `pandas` library.
 | Topic | About |
 | ------ | ------ |
 | [Full Lesson Deck](./01-slides/EDA-Introduction-to-Exploratory-Data-Analysis-and-pandas.pdf)| Overview of EDA and `pandas`, including the notebooks below |
-| [01 Intro to pandas](./02-intro-to-pandas/02-intro-to-pandas.ipynb) | A guided walkthrough of the basics of `pandas` |
-| [02 EDA with pandas](./03-eda-with-pandas/03-eda-with-pandas.ipynb) | A guided walkthrough of EDA commands in `pandas` |
-| [03 Exercise - EDA with pandas](./04-exercise-eda-with-pandas/04-exercise-eda-with-pandas.ipynb) | An EDA exercise using `pandas` |
+| [01 Intro to pandas](https://colab.research.google.com/github/ga-curriculum/intro-to-eda-and-pandas/blob/main/02-intro-to-pandas/02-intro-to-pandas.ipynb){:target="_blank"} | A guided walkthrough of the basics of `pandas` |
+| [02 EDA with pandas](https://colab.research.google.com/github/ga-curriculum/intro-to-eda-and-pandas/blob/main/03-eda-with-pandas/03-eda-with-pandas.ipynb){:target="_blank"} | A guided walkthrough of EDA commands in `pandas` |
+| [03 Exercise - EDA with pandas](https://colab.research.google.com/github/ga-curriculum/intro-to-eda-and-pandas/blob/main/04-exercise-eda-with-pandas/04-exercise-eda-with-pandas.ipynb){:target="_blank"} | An EDA exercise using `pandas` |
 
 
 ## Prerequisites
